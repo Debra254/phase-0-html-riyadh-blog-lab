@@ -13,8 +13,7 @@ h1, h2 {
 
 /* Hero Section */
 .hero {
-    
-    background-image: url('https://media.istockphoto.com/id/2166726167/photo/drone-shot-flying-saudi-arabia-riyadh-sunrise.webp?a=1&b=1&s=612x612&w=0&k=20&c=xvpRpBYg-AlVo7CrnYBFRDQhTsyU_rGvToNOQQ02J1Q=');
+    background-image: url('../images/riyadh-background.jpg'); /* Replace with a real banner image */
     background-size: cover;
     background-position: center;
     height: 60vh;
